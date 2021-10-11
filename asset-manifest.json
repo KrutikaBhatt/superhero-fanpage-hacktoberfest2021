@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/superhero-fanpage-hacktoberfest2021/static/css/main.83cbda7e.chunk.css",
+    "main.js": "/superhero-fanpage-hacktoberfest2021/static/js/main.3f2f0959.chunk.js",
+    "main.js.map": "/superhero-fanpage-hacktoberfest2021/static/js/main.3f2f0959.chunk.js.map",
+    "runtime-main.js": "/superhero-fanpage-hacktoberfest2021/static/js/runtime-main.5b043ac6.js",
+    "runtime-main.js.map": "/superhero-fanpage-hacktoberfest2021/static/js/runtime-main.5b043ac6.js.map",
+    "static/js/2.7856b271.chunk.js": "/superhero-fanpage-hacktoberfest2021/static/js/2.7856b271.chunk.js",
+    "static/js/2.7856b271.chunk.js.map": "/superhero-fanpage-hacktoberfest2021/static/js/2.7856b271.chunk.js.map",
+    "static/js/3.4dd6b443.chunk.js": "/superhero-fanpage-hacktoberfest2021/static/js/3.4dd6b443.chunk.js",
+    "static/js/3.4dd6b443.chunk.js.map": "/superhero-fanpage-hacktoberfest2021/static/js/3.4dd6b443.chunk.js.map",
+    "index.html": "/superhero-fanpage-hacktoberfest2021/index.html",
+    "static/css/main.83cbda7e.chunk.css.map": "/superhero-fanpage-hacktoberfest2021/static/css/main.83cbda7e.chunk.css.map",
+    "static/js/2.7856b271.chunk.js.LICENSE.txt": "/superhero-fanpage-hacktoberfest2021/static/js/2.7856b271.chunk.js.LICENSE.txt",
+    "static/media/Spinner.5469aaf1.gif": "/superhero-fanpage-hacktoberfest2021/static/media/Spinner.5469aaf1.gif",
+    "static/media/iron-man.e4eba382.jpg": "/superhero-fanpage-hacktoberfest2021/static/media/iron-man.e4eba382.jpg",
+    "static/media/logo2.2f50aafd.png": "/superhero-fanpage-hacktoberfest2021/static/media/logo2.2f50aafd.png",
+    "static/media/App.css": "/superhero-fanpage-hacktoberfest2021/static/media/superpower_background.719fb2a0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b043ac6.js",
+    "static/js/2.7856b271.chunk.js",
+    "static/css/main.83cbda7e.chunk.css",
+    "static/js/main.3f2f0959.chunk.js"
+  ]
+}
